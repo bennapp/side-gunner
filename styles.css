@@ -1,0 +1,35 @@
+.ability-pane {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 4px;
+    border: solid black;
+    margin: 4px;
+}
+
+.ability-list {
+    display: inline-flex;
+    flex-wrap: wrap;
+}
+
+.ability-img-lrg {
+    width: 48px;
+}
+
+.ability-img-sml {
+    width: 32px;
+}
+
+.synergy-list {
+    display: flex;
+}
+
+.synergy-pane {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 2px;
+    margin: 2px;
+}
